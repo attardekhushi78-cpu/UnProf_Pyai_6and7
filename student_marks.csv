@@ -1,0 +1,13 @@
+Student_ID,Name,Subject,Marks
+101,Ananya,Mathematics,95
+102,Diya,Mathematics,NaN
+103,Esha,Mathematics,88
+104,Kshiraja,Mathematics,92
+101,Ananya,Physics,89
+102,Diya,Physics,74
+103,Esha,Physics,NaN
+104,Kshiraja,Physics,96
+101,Ananya,History,91
+102,Diya,History,82
+103,Esha,Histroy,78
+104,Kshiraja,History,85
